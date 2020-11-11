@@ -122,7 +122,7 @@ Baby.prototype.play = function(){
   1. Implicit Binding, It looks to the left to see if there is a refrence to "this"
   2. Explicit Binding, Will immediatly invoke the function
   3. Window Binding, something we dont want, since we need to use 'this' for refrence
-  4. New Binding, refers to the previouse 'this' for refrence
+  4. New Binding, refers to the previouse 'this' for refrence 
 */
 
 
